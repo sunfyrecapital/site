@@ -1,0 +1,20 @@
+{
+  "short_name": "Sunfyre Capital",
+  "name": "Sunfyre Capital - Where Wealth Ascends",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "logo2.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#D1B46E",
+  "background_color": "#ffffff"
+}

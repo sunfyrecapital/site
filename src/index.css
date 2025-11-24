@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 50%, #f5f6f7 100%);
+  color: #1a1a1a;
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+}
